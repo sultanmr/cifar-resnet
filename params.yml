@@ -1,0 +1,5 @@
+accuracy: '0.5262500047683716'
+epochs: 10
+learning_rate: '0.001'
+loss: '1.308114767074585'
+model: Functional

@@ -1,5 +1,7 @@
 # CIFAR-10 Image Classification with ResNet50
 
+[Live Demo](https://cifar-resnet-jmydtirbappnr8cgextdtag.streamlit.app/)
+
 This repository contains a deep learning project that utilizes the ResNet50 model for classifying images from the CIFAR-10 dataset. The model was trained on a subset of the CIFAR-10 dataset, and various tools, including MLflow and Streamlit, were used to track the experiment and deploy a web-based UI.
 git a
 ## Project Overview
@@ -14,7 +16,7 @@ git a
 ## Project Components
 
 ### 1. Model Training (Google Colab)
-
+[Colab Link](https://github.com/sultanmr/cifar-resnet/blob/main/train_cifar10_resnet50.ipynb)
 The model training code was run on Google Colab, where the following steps were carried out:
 - Loaded the CIFAR-10 dataset and preprocessed the images and labels.
 - Used a pre-trained ResNet50 model (without the top layers) and fine-tuned it for classification.
@@ -34,7 +36,7 @@ streamlit run app.py
 
 ### 3. Experiment Tracking with MLflow
 
-The training and prediction results, including model parameters and metrics, are tracked using **MLflow**. You can view the results in the [MLflow Dashboard](https://dagshub.com/sultanmr/my-first-repo.mlflow/).
+The training and prediction results, including model parameters and metrics, are tracked using **MLflow**. You can view the results in the [MLflow Dashboard](https://dagshub.com/sultanmr/my-first-repo.mlflow/#/experiments/2/runs/bfc550c5403b44c0a980c0629be2de58/artifacts/).
 
 ### 4. Saving and Loading Models
 

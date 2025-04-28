@@ -58,6 +58,10 @@ The trained model (`resnet50_model.h5`) is saved for later use. You can download
 
 After training, the final accuracy on the test dataset is printed. Additionally, the training history and test data are saved for further analysis and visualization.
 
+![image](https://github.com/user-attachments/assets/fc8e1988-a95a-4fea-80e8-045b63e46272)
+![image](https://github.com/user-attachments/assets/bc3da94d-3092-446f-adfc-8195a3224995)
+![image](https://github.com/user-attachments/assets/5d2f82b5-e94a-4adb-aee8-13efc60c9ffc)
+
 ## Installation
 
 1. Clone this repository:

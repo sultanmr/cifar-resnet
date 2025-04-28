@@ -1,7 +1,7 @@
 ![screen](https://github.com/user-attachments/assets/9645df5b-7b80-4d10-a22b-9f41a76ddfec)
 
-[Live Demo](https://cifar-resnet-jmydtirbappnr8cgextdtag.streamlit.app/)
 
+            
 This repository contains a deep learning project that utilizes the ResNet50 model for classifying images from the CIFAR-10 dataset. The model was trained on a subset of the CIFAR-10 dataset, and various tools, including MLflow and Streamlit, were used to track the experiment and deploy a web-based UI.
 git a
 ## Project Overview
@@ -13,7 +13,7 @@ git a
   - **MLflow** for experiment tracking and model versioning.
   - **Streamlit** for creating a simple web app to predict CIFAR-10 images.
 
-## Live Demo
+[Live Demo](https://cifar-resnet-jmydtirbappnr8cgextdtag.streamlit.app/)
 ![image](https://github.com/user-attachments/assets/89a1f0a8-716e-494c-95d7-1bd016f4dc35)
 
 ## Project Components

@@ -53,16 +53,8 @@ The trained model (`resnet50_model.h5`) is saved for later use. You can download
 - Overfitting Gap: `0.0293`
 
 ## Class-wise Accuracy
-- **Class 0**: `0.8400`
-- **Class 1**: `0.8140`
-- **Class 2**: `0.7330`
-- **Class 3**: `0.4820`
-- **Class 4**: `0.5990`
-- **Class 5**: `0.7040`
-- **Class 6**: `0.8530`
-- **Class 7**: `0.9020`
-- **Class 8**: `0.8610`
-- **Class 9**: `0.9060`
+![image](https://github.com/user-attachments/assets/79a6425e-4224-4f61-a66b-1100def3d5ee)
+
 
 After training, the final accuracy on the test dataset is printed. Additionally, the training history and test data are saved for further analysis and visualization.
 

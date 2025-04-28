@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+matplotlib
+seaborn
+scikit-learn
+mlflow
+dagshub
+pillow
+markdown2
+pdfkit
+transformers
+torch

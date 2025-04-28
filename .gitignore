@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+tmp/
+logged_uploads/
+logs/
+logs-old/
+model/

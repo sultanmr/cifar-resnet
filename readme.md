@@ -1,7 +1,9 @@
-![screen](https://github.com/user-attachments/assets/9645df5b-7b80-4d10-a22b-9f41a76ddfec)
+# Cifar-Resnet Image Detection
+[Live Demo](https://cifar-resnet-jmydtirbappnr8cgextdtag.streamlit.app/)
 
+![image](https://github.com/user-attachments/assets/15da1f91-9be1-4727-ab8f-a3d25ce59dcc)
 
-            
+           
 This repository contains a deep learning project that utilizes the ResNet50 model for classifying images from the CIFAR-10 dataset. The model was trained on a subset of the CIFAR-10 dataset, and various tools, including MLflow and Streamlit, were used to track the experiment and deploy a web-based UI.
 git a
 ## Project Overview
@@ -12,9 +14,6 @@ git a
   - **TensorFlow/Keras** for building and training the model.
   - **MLflow** for experiment tracking and model versioning.
   - **Streamlit** for creating a simple web app to predict CIFAR-10 images.
-
-[Live Demo](https://cifar-resnet-jmydtirbappnr8cgextdtag.streamlit.app/)
-![image](https://github.com/user-attachments/assets/89a1f0a8-716e-494c-95d7-1bd016f4dc35)
 
 ## Project Components
 
@@ -55,13 +54,9 @@ The trained model (`resnet50_model.h5`) is saved for later use. You can download
 - Final Validation Accuracy: `0.7711`
 - Overfitting Gap: `0.0293`
 
-## Class-wise Accuracy
-![image](https://github.com/user-attachments/assets/79a6425e-4224-4f61-a66b-1100def3d5ee)
-
-
 After training, the final accuracy on the test dataset is printed. Additionally, the training history and test data are saved for further analysis and visualization.
 
-![image](https://github.com/user-attachments/assets/fc8e1988-a95a-4fea-80e8-045b63e46272)
+![image](https://github.com/user-attachments/assets/4a3df249-c8aa-413f-9279-152c6afbc64d)
 ![image](https://github.com/user-attachments/assets/bc3da94d-3092-446f-adfc-8195a3224995)
 ![image](https://github.com/user-attachments/assets/5d2f82b5-e94a-4adb-aee8-13efc60c9ffc)
 

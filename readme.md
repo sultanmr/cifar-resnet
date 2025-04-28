@@ -13,6 +13,9 @@ git a
   - **MLflow** for experiment tracking and model versioning.
   - **Streamlit** for creating a simple web app to predict CIFAR-10 images.
 
+## Live Demo
+![image](https://github.com/user-attachments/assets/89a1f0a8-716e-494c-95d7-1bd016f4dc35)
+
 ## Project Components
 
 ### 1. Model Training (Google Colab)

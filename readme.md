@@ -5,7 +5,7 @@
 
            
 This repository contains a deep learning project that utilizes the ResNet50 model for classifying images from the CIFAR-10 dataset. The model was trained on a subset of the CIFAR-10 dataset, and various tools, including MLflow and Streamlit, were used to track the experiment and deploy a web-based UI.
-git a
+
 ## Project Overview
 
 - **Dataset**: CIFAR-10, a dataset containing 60,000 32x32 color images in 10 classes.
